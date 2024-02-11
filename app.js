@@ -26,4 +26,5 @@ function save(){
 
 function newc (){
     saveEl.textContent = "Previous entries:"
+    amte.textContent = ""
 }
